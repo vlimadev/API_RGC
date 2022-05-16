@@ -2,6 +2,10 @@ body {
     background-color:#f2f2f2 ;
 }
 
+form{
+    margin-top: 4em;
+}
+
 #id_id{
     display:block;
 }
@@ -31,4 +35,22 @@ color: white;
     font-size: 25px;
     border-bottom: 1px solid rgb(150, 147, 147);
 
+}
+
+.listaHelp{
+    margin-top: 5em;
+}
+
+.listaHelp li {
+    font-size: 25px;
+}
+
+.listaHelp img{
+    border: 2px solid black;
+    border-radius: 1px;
+    width: 1200px;
+}
+
+.listaHelp p{
+    font-size: 25px;
 }
